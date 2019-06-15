@@ -2,52 +2,50 @@
 
 ## Project Schedule
 
-This schedule will be used to keep track of your progress throughout the week and align with our expectations.  
-
-You are **responsible** for scheduling time with your squad to seek approval for each deliverable by the end of the corresponding day, excluding `Saturday` and `Sunday`.
-
 |  Day | Deliverable | Status
 |---|---| ---|
-|Day 1| Project Description | Incomplete
-|Day 2| Wireframes / Priority Matrix / Functional Components | Incomplete
-|Day 3| Core Application Structure (HTML, CSS, etc.) | Incomplete
-|Day 4| Pseudocode / actual code | Incomplete
-|Day 5| Initial Clickable Model  | Incomplete
-|Day 6| MVP | Incomplete
-|Day 7| Present | Incomplete
+|Monday| Proposals / Setup Tasks in Trello | Incomplete
+|Tuesday| Product Routes and CRUD Implemented, Landing Page, Product Add Page, Product Display Page | Incomplete
+|Wednesday| Comment Routes and CRUD, Comment Page / Comment Component inside Product Info Page | Incomplete
+|Thursday| CSS, Looking for Bugs, Post MVP Components for Product Information | Incomplete
+|Friday| Demonstration  | Incomplete
 
 
 ## Project Description
 
-Use this section to describe your final project and perhaps any links to relevant sites that help convey the concept and\or functionality.
+UPC scanning app to obtain a variety of information about a product. This includes
+brand name, product name, price, among many other fixed attributes. Additionally, users may
+comment on products and give them ratings as well as the price they paid in order to help
+future consumers with their decisions.
 
 ## Wireframes
 
-Upload images of wireframe to cloudinary and add the link here with a description of the specific wireframe.
+![](https://res.cloudinary.com/djderutky/image/upload/v1560621340/upc-scanner/wireframes_snaxcn.png)
 
 ## Priority Matrix
 
-Include a full list of features that have been prioritized based on the `Time and Importance` Matix.  
+![](https://res.cloudinary.com/djderutky/image/upload/v1560621347/upc-scanner/priority-matrix_b6b9wz.png)
 
 ### MVP/PostMVP - 5min
 
-The functionality will then be divided into two separate lists: MPV and PostMVP.  Carefully decided what is placed into your MVP as the client will expect this functionality to be implemented upon project completion.  
-
-#### SAMPLE.....
 #### MVP 
 
-- Find and use external api 
-- Render data on page in a list
+- Add product.
+- View product information.
+- CRUD on comments.
+- CRU  on products.
+- Add comments.
+- CSS
 
-#### PostMVP 
-
-- Add data to favorites section
+#### PostMVP
+- Additional product information components.
+- Upload and display images on product information.
+- Users to have an image.
+- Comments in comments.
 
 ## React Architectural Design
 
-Define the the React components and the architectural design of your app.
-
-#### [SAMPLE FROM A MAP BASED PROJECT](https://res.cloudinary.com/dvjtpejbw/image/upload/v1540221204/20181022_111216.jpg)
+Define the React components and the architectural design of your app.
 
 ## ERD
 
@@ -69,9 +67,18 @@ Time frames are also key in the development cycle.  You have limited time to cod
 #### SAMPLE.....
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: |
-| Adding Form | H | 3hrs| 3.5hrs |
-| Working with API | H | 3hrs| 2.5hrs |
-| Total | H | 6hrs| 5hrs | 
+| Trello | H | 0.5 hrs | |
+| Product Routes / CRUD | H | 3 hrs | |
+| Landing Page | H | 2 hrs | |
+| Product Add Page | H | 4 hrs | | 
+| Product Info Page | H | 4 hrs | |
+| Comment Routes / CRUD | H | 3 hrs | |
+| Comment Component | H | 3 hrs | |
+| Comment Page | H | 4 hrs | |
+| CSS | H | 7 hrs | |
+| Try to Break App | H | 3 hrs | |
+| Post MVP Components | H | 6 hrs | |
+| Presentation Practice | H | 1 hr | |
 
 ## Helper Functions
 Helper functions should be generic enought that they can be reused in other applications. Use this section to document all helper functions that fall into this category.
