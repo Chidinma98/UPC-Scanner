@@ -44,27 +44,15 @@ future consumers with their decisions.
 - Comments in comments.
 
 ## React Architectural Design
-
-Define the React components and the architectural design of your app.
+![](https://res.cloudinary.com/djderutky/image/upload/v1560711732/upc-scanner/architecture_wphtyi.png)
 
 ## ERD
-
 Create the ERD model for your project
 
 ## Functional Components
+Functional components are those colored red in the architectural design section.
 
-Based on the initial logic defined in the previous sections try and breakdown the logic further into stateless/stateful components. 
-
-#### SAMPLE.....
-| Component | Description | 
-| --- | :---: |  
-| Header | This will render the header include the nav | 
-| Footer | This will render the header include the nav | 
-
-
-Time frames are also key in the development cycle.  You have limited time to code all phases of the game.  Your estimates can then be used to evalute game possibilities based on time needed and the actual time you have before game must be submitted. It's always best to pad the time by a few hours so that you account for the unknown so add and additional hour or two to each component to play it safe.
-
-#### SAMPLE.....
+## Time Frame
 | Component | Priority | Estimated Time | Actual Time |
 | --- | :---: |  :---: | :---: |
 | Trello | H | 0.5 hrs | |
