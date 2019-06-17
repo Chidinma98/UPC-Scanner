@@ -2,10 +2,14 @@ import React from 'react';
 import './Search.css';
 import TextField from '@material-ui/core/TextField';
 import Button from '@material-ui/core/Button';
+import Paper from '@material-ui/core/Paper';
 
 function Search(props) {
   return (
-    <div className = 'search'>
+    <Paper className="search"
+           elevation="3"
+           component="div"
+    >
       <TextField
         label="UPC"
         type="text"
@@ -18,7 +22,7 @@ function Search(props) {
       <Button variant="contained" color="primary">
         Search
       </Button>
-    </div>
+    </Paper>
   )
 }
 
