@@ -1,0 +1,32 @@
+h2 {
+
+
+    text-align:center;
+}
+
+
+.paper {
+
+display:flex;
+flex-direction:column;
+width: 70%;
+margin: 0 auto;
+padding:20px;
+align-items: center;
+    
+}
+
+.outlined-with-placeholder {
+
+    width:70%;
+
+}
+
+.add-update-product {
+
+    height: 90%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
