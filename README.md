@@ -47,7 +47,7 @@ future consumers with their decisions.
 ![](https://res.cloudinary.com/djderutky/image/upload/v1560711732/upc-scanner/architecture_wphtyi.png)
 
 ## ERD
-Create the ERD model for your project
+![](https://res.cloudinary.com/djderutky/image/upload/v1560735314/upc-scanner/upc-erd_fursee.png)
 
 ## Functional Components
 Functional components are those colored red in the architectural design section.
