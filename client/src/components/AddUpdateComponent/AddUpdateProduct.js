@@ -2,6 +2,7 @@ import React, { Component } from 'react'
 import {Route, Link, Redirect} from 'react-router-dom'
 import axios from 'axios'
 import TextField from '@material-ui/core/TextField'
+import Button from '@material-ui/core/Button';
 
 class AddItem extends Component {
   constructor(props){
@@ -15,7 +16,11 @@ class AddItem extends Component {
 
     render(){
         return(
+
             <div>
+            <div><h2>Add an Item</h2></div>
+
+            
             <TextField 
             id="outlined-with-placeholder"
             label="Brand"
@@ -47,6 +52,13 @@ class AddItem extends Component {
             variant="outlined"
             margin="normal"
             />
+
+            <div>
+        <Button variant="contained" color="primary">
+        Submit
+        </Button>
+            </div>
+
 
             </div>
         )

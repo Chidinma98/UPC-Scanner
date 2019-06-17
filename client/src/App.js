@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import AddItem from './components/AddUpdateProduct'
+import AddItem from './components/AddUpdateComponent/AddUpdateProduct'
 
 function App() {
   return (
