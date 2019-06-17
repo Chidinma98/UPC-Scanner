@@ -1,18 +1,17 @@
 h2 {
 
-
     text-align:center;
+    
 }
-
 
 .paper {
 
-display:flex;
-flex-direction:column;
-width: 70%;
-margin: 0 auto;
-padding:20px;
-align-items: center;
+    display:flex;
+    flex-direction:column;
+    width: 70%;
+    margin: 0 auto;
+    padding:20px;
+    align-items: center;
     
 }
 
