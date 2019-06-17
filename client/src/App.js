@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import AddItem from './components/AddUpdateComponent/AddUpdateProduct'
+import Search from './components/Search/Search';
 
 function App() {
   return (
     <div className="app">
-
-
+      <h1>UPC Scanner</h1>
+      <Search/>
     </div>
   );
 }
