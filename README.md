@@ -1,14 +1,5 @@
 # Project Overview
 
-## Project Schedule
-
-|  Day | Deliverable | Status
-|---|---| ---|
-|Monday| Proposals / Setup Tasks in Trello | Incomplete
-|Tuesday| Product Routes and CRUD Implemented, Landing Page, Product Add Page, Product Display Page | Incomplete
-|Wednesday| Comment Routes and CRUD, Comment Page / Comment Component inside Product Info Page | Incomplete
-|Thursday| CSS, Looking for Bugs, Post MVP Components for Product Information | Incomplete
-|Friday| Demonstration  | Incomplete
 
 
 ## Project Description
